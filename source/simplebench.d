@@ -5,7 +5,7 @@ Authors: Nouredine Hussain
 License: $(LINK3 http://www.boost.org/LICENSE_1_0.txt, Boost Software License - Version 1.0).
 */
 
-module benchmark;
+module simplebench;
 
 import stats;
 import std.json;

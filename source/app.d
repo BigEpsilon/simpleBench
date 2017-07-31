@@ -9,15 +9,9 @@ module app;
 
 
 import std.stdio;
-import std.format;
-import std.algorithm.iteration : sum, reduce, map, joiner;
-import std.algorithm.comparison: max, min;
-import std.range;
-import core.time;
 import std.json;
 
-import benchmark;
-import stats;
+import simplebench;
 
 
 immutable N = 25;
