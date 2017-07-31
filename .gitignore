@@ -1,0 +1,4 @@
+*.o
+simplebench
+dub.selections.json
+simplebench-test-library

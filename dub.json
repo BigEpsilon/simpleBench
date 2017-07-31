@@ -1,0 +1,9 @@
+{
+	"name": "simplebench",
+	"authors": [
+		"BigEpsilon"
+	],
+	"description": "A Simple Benchmarking library for the D programming language",
+	"copyright": "Copyright © 2017, Nouredine Hussain",
+	"license": "BSL-1.0"
+}
