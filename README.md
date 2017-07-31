@@ -7,7 +7,7 @@ The library is heavily inspired by the integrated benchmarking utilities of the 
 
 ## Installation
 
-TODO : VIA DUB
+Add simplebench to your dependencies in your dub.json file.
 
 ## USAGE
 
